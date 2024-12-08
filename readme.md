@@ -19,6 +19,12 @@ This is a repository of cool things I find researching new technologies
 - [Documenso - An open-source alternative to DocuSign](https://github.com/documenso/documenso)
 - [maybe - The OS for your personal finances](https://github.com/maybe-finance/maybe)
 
+## AI Tools
+
+- [AI Videos MPT](https://github.com/harry0703/MoneyPrinterTurbo/blob/main/README-en.md)
+- [Local AI models and tools](https://github.com/mudler/LocalAI)
+- [elevenlabs - paid text-to-speech](https://elevenlabs.io/text-to-speech)
+
 ## Random tips
 
 - [Data visualization best practices](/tips/data-viz.jpg)
