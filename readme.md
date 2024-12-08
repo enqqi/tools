@@ -1,69 +1,31 @@
 # Useful Tools
 
-## Development Tools
+This is a repository of cool things I find researching new technologies
 
-- **Svelte DnD**
-  Drag-and-drop functionality for Svelte applications.
-  [Git](https://github.com/thisuxhq/SvelteDnD)
+## packages
 
-- **d2lang**
-  Diagrams as code.
-  [Site](https://d2lang.com/)
+- [Drag-and-drop for Svelte](https://github.com/thisuxhq/SvelteDnD)
+- [Openauthjs - your own auth in aws infra](https://github.com/openauthjs/openauth)
+- [better-auth - Framework agnostic typescript auth](https://www.better-auth.com/)
+- [Gantt charts for Svelte](https://github.com/svar-widgets/gantt)
 
-- **Openauthjs**
-  Implement custom authentication using AWS infrastructure.
-  [Git](https://github.com/openauthjs/openauth)
+## Tools
 
-- **better-auth**
-  Framework agnostic typescript auth
-  [Site](https://www.better-auth.com/)
-  [Git](https://github.com/better-auth/better-auth/)
-
-- **Gantt charts for Svelte**
-  [Site](https://svar.dev/svelte/gantt/)
-  [Git](https://github.com/svar-widgets/gantt)
-
-## Media Tools
-
-- **Cobalt**
-
-  - _Video Downloading_: Download online videos.
-    [Site](https://cobalt.tools)
-
-  - _Git Repository_: Version control for Cobalt.
-    [Git](https://github.com/imputnet/cobalt)
-
-  - _Development Updates_: Developer profile
-    [X Profile](https://x.com/imputnet)
-
-## Utility Tools
-
-- **Superfile**
-  File management UI for the terminal.
-  [Git](https://github.com/yorukot/superfile)
-
-## Document Management
-
-- **Documenso**
-  An open-source alternative to DocuSign.
-  [Git](https://github.com/documenso/documenso)
-
-## AI Tools
-
-- **AI Videos**
-  Create AI-enhanced video content.
-  [GitHub README](https://github.com/harry0703/MoneyPrinterTurbo/blob/main/README-en.md)
-
-- **LocalAI**
-  Local AI models and tools.
-  [Git](https://github.com/mudler/LocalAI)
-
-## Finance
-
-- **maybe - open source finances**
-  The OS for your personal finances
-  [Git](https://github.com/maybe-finance/maybe)
+- [d2lang - Diagrams as code](https://d2lang.com/)
+- [cobalt - download videos](https://cobalt.tools)
+- [cobalt - git](https://github.com/imputnet/cobalt)
+- [cobalt - dev](https://x.com/imputnet)
+- [superfile - File management UI for the terminal](https://github.com/yorukot/superfile)
+- [Documenso - An open-source alternative to DocuSign](https://github.com/documenso/documenso)
+- [maybe - The OS for your personal finances](https://github.com/maybe-finance/maybe)
 
 ## Random tips
 
 - [Data visualization best practices](/tips/data-viz.jpg)
+- [bash cheatsheet](/tips/bash.jpg)
+- [HTML hidden powers](/tips/html.jpg)
+- [Machine learning basics - Encoder](/tips/ml-basics-encoder.png)
+- [SQL Joins](/tips/sql-joins.pdf)
+- [Useful regex patterns](/tips/regex.jpg)
+- [Convert videos as hls streams](/tips/videos-as-hls.sh)
+- [CSS Grid util to reduce media queries](/tips/responsive-grid.css)
