@@ -1,0 +1,144 @@
+{
+  "assistant": {
+    "default_model": {
+      "provider": "openai",
+      "model": "gpt-4o"
+    },
+    "show_hints": false,
+    "version": "2"
+  },
+  "collaboration_panel": {
+    "dock": "right"
+  },
+  "outline_panel": {
+    "dock": "right"
+  },
+  "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "Graphene"
+  },
+  "ui_font_family": "SF Compact Rounded",
+  "buffer_font_family": "MonoLisa Variable",
+  "buffer_font_weight": 400,
+  "preferred_line_length": 100,
+  "ui_font_size": 14,
+  "buffer_font_size": 14,
+  "autosave": "off",
+  "base_keymap": "VSCode",
+  "linked_edits": true,
+  "use_autoclose": true,
+  "format_on_save": "on",
+  "tabs": {
+    "git_status": true,
+    "close_position": "right"
+  },
+  "tab_bar": {
+    "show": false,
+    "show_nav_history_buttons": false
+  },
+  "inline_completions": null,
+  "show_inline_completions": null,
+  "features": {
+    "inline_completion_provider": "none",
+    "copilot": false
+  },
+  "file_types": {
+    "Shell Script": [".env", ".env.local", ".dev.vars"]
+  },
+  "buffer_line_height": {
+    "custom": 1.9
+  },
+  "buffer_font_features": {
+    "ss04": true,
+    "zero": true,
+    "ss01": true,
+    "ss02": true,
+    "ss05": true,
+    "ss06": true,
+    "ss08": true,
+    "ss10": true,
+    "ss11": true,
+    "ss12": true,
+    "ss14": true,
+    "ss15": true,
+    "ss16": true,
+    "ss17": true
+  },
+  "show_completions_on_input": true,
+  "show_completion_documentation": true,
+  "use_on_type_format": false,
+  "show_copilot_suggestions": false,
+  "calls": {
+    "mute_on_join": true
+  },
+  "scrollbar": {
+    "show": "never"
+  },
+  "project_panel": {
+    "default_width": 240,
+    "dock": "right",
+    "folder_icons": false,
+    "indent_size": 24,
+    "auto_fold_dirs": false
+  },
+  "tab_size": 2,
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "auto_update": true,
+  "git": {
+    "enabled": true,
+    "git_status": true,
+    "git_gutter": "tracked_files",
+    "inline_blame": {
+      "enabled": false
+    }
+  },
+  "copilot": {
+    "disabled_globs": [".env"]
+  },
+  "toolbar": {
+    "breadcrumbs": true,
+    "quick_actions": false
+  },
+  "file_scan_exclusions": [
+    "**/.git",
+    "**/.svn",
+    "**/.hg",
+    "**/.next",
+    ".next",
+    "**/CVS",
+    "node_modules/**",
+    "node_modules",
+    "**/node_modules",
+    "**/.DS_Store",
+    "**/Thumbs.db",
+    "**/.classpath",
+    "**/.settings"
+  ],
+  "terminal": {
+    "default_height": 100,
+    "line_height": "standard",
+    "working_directory": "current_project_directory",
+    "max_scroll_history_lines": 299,
+    "shell": {
+      "program": "zsh"
+    },
+    "detect_venv": {
+      "on": {
+        "directories": [".env", "env", ".venv", "venv", ".env.local", ".dev.vars"],
+        "activate_script": "default"
+      }
+    },
+    "font_size": 12,
+    "font_family": "SF Mono"
+  },
+  "inlay_hints": {
+    "enabled": false,
+    "show_type_hints": true,
+    "show_parameter_hints": true,
+    "show_other_hints": true
+  }
+}
