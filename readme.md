@@ -18,6 +18,7 @@ This is a repository of cool things I find researching new technologies
 - [superfile - File management UI for the terminal](https://github.com/yorukot/superfile)
 - [Documenso - An open-source alternative to DocuSign](https://github.com/documenso/documenso)
 - [maybe - The OS for your personal finances](https://github.com/maybe-finance/maybe)
+- [handyarrows - svg doodles and arrows](https://handyarrows.com/)
 
 ## AI Tools
 
