@@ -20,6 +20,7 @@ This is a repository of cool things I find researching new technologies
 - [maybe - The OS for your personal finances](https://github.com/maybe-finance/maybe)
 - [handyarrows - svg doodles and arrows](https://handyarrows.com/)
 - [shadcn form builder](https://www.shadcn-form.com/)
+- [Temporary email address](https://mail.tm/en/)
 
 ## AI Tools
 
