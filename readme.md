@@ -11,6 +11,8 @@ This is a repository of cool things I find researching new technologies
 
 ## Tools
 
+- [scalar - OpenApi UI](https://scalar.com/)
+- [scalar - github](https://github.com/scalar/scalar)
 - [d2lang - Diagrams as code](https://d2lang.com/)
 - [cobalt - download videos](https://cobalt.tools)
 - [cobalt - git](https://github.com/imputnet/cobalt)
