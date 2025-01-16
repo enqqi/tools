@@ -32,6 +32,7 @@ This is a repository of cool things I find researching new technologies
 
 ## Random tips
 
+- [Emoji favicons](/tips/emoji-favicons.ts)
 - [Data visualization best practices](/tips/data-viz.jpg)
 - [bash cheatsheet](/tips/bash.jpg)
 - [HTML hidden powers](/tips/html.jpg)
