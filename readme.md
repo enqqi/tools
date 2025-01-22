@@ -23,6 +23,7 @@ This is a repository of cool things I find researching new technologies
 - [handyarrows - svg doodles and arrows](https://handyarrows.com/)
 - [shadcn form builder](https://www.shadcn-form.com/)
 - [Temporary email address](https://mail.tm/en/)
+- [modern markdown renderer](https://github.com/markdown-it/markdown-it)
 
 ## AI Tools
 
