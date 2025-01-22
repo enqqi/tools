@@ -24,6 +24,7 @@ This is a repository of cool things I find researching new technologies
 - [shadcn form builder](https://www.shadcn-form.com/)
 - [Temporary email address](https://mail.tm/en/)
 - [modern markdown renderer](https://github.com/markdown-it/markdown-it)
+- [svg arrows and doodles](https://handyarrows.com)
 
 ## AI Tools
 
