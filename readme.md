@@ -43,3 +43,4 @@ This is a repository of cool things I find researching new technologies
 - [Useful regex patterns](/tips/regex.jpg)
 - [Convert videos as hls streams](/tips/videos-as-hls.sh)
 - [CSS Grid util to reduce media queries](/tips/responsive-grid.css)
+- [ESP32-CAM](https://www.youtube.com/watch?v=1mcY4zWi0os)
