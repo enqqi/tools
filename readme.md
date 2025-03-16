@@ -34,6 +34,7 @@ This is a repository of cool things I find researching new technologies
 
 ## Random tips
 
+- [Design Tips](/tips/ux-typography-1.md)
 - [Emoji favicons](/tips/emoji-favicons.ts)
 - [Data visualization best practices](/tips/data-viz.jpg)
 - [bash cheatsheet](/tips/bash.jpg)
